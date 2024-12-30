@@ -1,0 +1,2 @@
+# serverstat
+server stat Web
